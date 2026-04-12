@@ -11,7 +11,7 @@ Flight Analytics Team
 
 ## Team Members
 1. Cileen Antari — 1220922
-2. Shaimaa Tariq — 
+2. Shaimaa Dar Mousa  — 1222002
 3. Shahd Alhih — 1221817
 
 ## Project Overview
