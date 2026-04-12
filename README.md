@@ -12,7 +12,7 @@ Flight Analytics Team
 ## Team Members
 1. Cileen Antari — 1220922
 2. Shaimaa Tariq — 
-3. Shahd Yaqub — 
+3. Shahd Alhih — 1221817
 
 ## Project Overview
 This project aims to build a data science pipeline to analyze and predict flight delays across multiple countries.
