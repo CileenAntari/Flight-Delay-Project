@@ -15,4 +15,9 @@ Flight Analytics Team
 3. Shahd Alhih — 1221817
 
 ## Project Overview
-This project aims to build a data science pipeline to analyze and predict flight delays across multiple countries.
+This project implements a complete data science pipeline for analyzing and
+predicting flight delays across multiple countries. The pipeline moves from
+raw data collection, through cleaning, preprocessing, and exploratory
+analysis, and ends with a simple machine learning model that predicts a
+delay-related target (e.g. delay minutes, delayed vs not delayed, or a
+punctuality category).
