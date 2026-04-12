@@ -1,15 +1,15 @@
 # Flight-Delay-DataScience-Project
 
-### Course:
+## Course:
 COMP4381 - Data Science and Analytics Spring 2026
 
-###  Instructor
+## Instructor
 DR. Ahmed Sabbah
 
 ## Group Name
 Flight Analytics Team
 
-### Team Members
+## Team Members
 1. Cileen Antari — 1220922
 2. Shaimaa Tariq — 
 3. Shahd Yaqub — 
