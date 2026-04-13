@@ -7,7 +7,7 @@ COMP4381 - Data Science and Analytics Spring 2026
 DR. Ahmed Sabbah
 
 ## Group Name
-Flight Analytics Team
+Analytics Team
 
 ## Team Members
 1. Cileen Antari — 1220922
